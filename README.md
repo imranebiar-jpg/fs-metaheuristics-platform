@@ -81,13 +81,13 @@ Chaque algorithme expose `solve(problem, **params)` qui retourne un dictionnaire
 
 | Membre | Rôle |
 |---|---|
-| Nom 1 | Noyau ML (`problem.py`) |
-| Nom 2 | Phase exacte (`exact_solver.py`) |
-| Nom 3 | Heuristiques et Recherche Tabou |
-| Nom 4 | Recuit Simulé |
-| Nom 5 | Recherche à Voisinage Variable |
-| Nom 6 | Algorithme Génétique |
-| Nom 7 | Benchmark, interface et rapport |
+| Membre 1 | Noyau ML (`problem.py`) |
+| Membre 2 | Phase exacte (`exact_solver.py`) |
+| Membre 3 | Heuristiques et Recherche Tabou |
+| Membre 4 | Recuit Simulé |
+| Membre 5 | Recherche à Voisinage Variable |
+| Membre 6 | Algorithme Génétique |
+| Membre 7 | Benchmark, interface et rapport |
 
 ## Encadrement
 
