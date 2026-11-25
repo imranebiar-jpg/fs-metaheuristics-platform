@@ -91,4 +91,4 @@ Chaque algorithme expose `solve(problem, **params)` qui retourne un dictionnaire
 
 ## Encadrement
 
-Projet réalisé dans le cadre du module de Recherche Opérationnelle, ENSA. Année universitaire 2025/2026.
+Projet réalisé dans le cadre du module de Recherche Opérationnelle, ENSA. Année universitaire 2026/2027.
